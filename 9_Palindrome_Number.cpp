@@ -19,15 +19,15 @@ public:
         
 
 
-        for (size_t i = 0; i < str.size(); i++)
-        {
-            std::cout << str[i];
-        }
-        std::cout << std::endl;
      return 1;   
     }
 };
 
+        // for (size_t i = 0; i < str.size(); i++)
+        // {
+        //     std::cout << str[i];
+        // }
+        // std::cout << std::endl;
 int main(){
     Solution sol;
     
